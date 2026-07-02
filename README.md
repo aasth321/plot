@@ -12,7 +12,7 @@ Multiple Linear Regression
   Outputs: Intercept, feature coefficients, and evaluation metrics (MAE, MSE, R²)
   Visualization: Bar chart of feature coefficients
 
- workflow
+ workflow-
    Data loading and preprocessing with scikit‑learn
    Model training and evaluation using regression metrics
    Clear visualizations for both single‑feature and multi‑feature regression
