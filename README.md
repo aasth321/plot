@@ -1,12 +1,12 @@
 This project demonstrates simple and multiple linear regression using the classic diabetes dataset from scikit‑learn.
 
-Simple Linear Regression
+Simple Linear Regression-
   Predictor: Body Mass Index (BMI)
   Target: Disease progression score
   Outputs: Intercept, BMI coefficient, and evaluation metrics (MAE, MSE, R²)
   Visualization: Scatter plot of BMI vs. target with regression line
 
-Multiple Linear Regression
+Multiple Linear Regression-
   Predictors: BMI, Age, Blood Pressure (BP)
   Target: Disease progression score
   Outputs: Intercept, feature coefficients, and evaluation metrics (MAE, MSE, R²)
